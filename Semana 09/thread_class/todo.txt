@@ -1,0 +1,7 @@
+En el start de la clase base implementar la funcionalidad para poder levantar
+threads.
+De la clase Thread heredar a ServerThread y ClientThread.
+En el metodo run de las clases hijas implementar el codigo run.
+Hacer main con menu:
+	1) Modo servidor
+	2) Modo client

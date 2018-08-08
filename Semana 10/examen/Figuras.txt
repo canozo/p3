@@ -1,0 +1,10 @@
+El Circulo tiene area: 3.14159
+El Cuadrado tiene area: 4
+El Circulo tiene area: 28.2743
+El Cuadrado tiene area: 16
+El Circulo tiene area: 78.5398
+El Cuadrado tiene area: 36
+El Circulo tiene area: 153.938
+El Cuadrado tiene area: 64
+El Circulo tiene area: 254.469
+El Cuadrado tiene area: 100
